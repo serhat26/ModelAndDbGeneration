@@ -5,7 +5,9 @@
 # Add or remove new columns to selected table
 # Create Oracle or Sqlserver create table script
 # Generate model and dbClass according to columns and their properties
-######
+#
+# ------------
+#
 # DbConnection 
 # Connects both Sqlserver and Oracle
 # Keeeps new created connection string in dbcongig.dll file in encrypted format

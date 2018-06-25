@@ -1,0 +1,8 @@
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\ModelAndDbGeneration\DbConnection\bin\Debug\DbConnection.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\ModelAndDbGeneration\DbConnection\bin\Debug\DbConnection.pdb
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\ModelAndDbGeneration\DbConnection\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\ModelAndDbGeneration\DbConnection\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\ModelAndDbGeneration\DbConnection\obj\Debug\DbConnection.frmDBAyarlar.resources
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\ModelAndDbGeneration\DbConnection\obj\Debug\DbConnection.csproj.GenerateResource.Cache
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\ModelAndDbGeneration\DbConnection\obj\Debug\DbConnection.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\ModelAndDbGeneration\DbConnection\obj\Debug\DbConnection.pdb

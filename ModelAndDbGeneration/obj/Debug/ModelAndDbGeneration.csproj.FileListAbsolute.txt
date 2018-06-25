@@ -1,0 +1,15 @@
+C:\Users\Administrator\Documents\visual studio 2015\Projects\ModelAndDbGeneration\ModelAndDbGeneration\bin\Debug\ModelAndDbGeneration.exe.config
+C:\Users\Administrator\Documents\visual studio 2015\Projects\ModelAndDbGeneration\ModelAndDbGeneration\bin\Debug\ModelAndDbGeneration.exe
+C:\Users\Administrator\Documents\visual studio 2015\Projects\ModelAndDbGeneration\ModelAndDbGeneration\bin\Debug\ModelAndDbGeneration.pdb
+C:\Users\Administrator\Documents\visual studio 2015\Projects\ModelAndDbGeneration\ModelAndDbGeneration\bin\Debug\DbConnection.dll
+C:\Users\Administrator\Documents\visual studio 2015\Projects\ModelAndDbGeneration\ModelAndDbGeneration\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Administrator\Documents\visual studio 2015\Projects\ModelAndDbGeneration\ModelAndDbGeneration\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\Administrator\Documents\visual studio 2015\Projects\ModelAndDbGeneration\ModelAndDbGeneration\bin\Debug\DbConnection.pdb
+C:\Users\Administrator\Documents\visual studio 2015\Projects\ModelAndDbGeneration\ModelAndDbGeneration\obj\Debug\ModelAndDbGeneration.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\visual studio 2015\Projects\ModelAndDbGeneration\ModelAndDbGeneration\obj\Debug\ModelAndDbGeneration.frmForeignTableSelection.resources
+C:\Users\Administrator\Documents\visual studio 2015\Projects\ModelAndDbGeneration\ModelAndDbGeneration\obj\Debug\ModelAndDbGeneration.frmModelAndDbClassGeneration.resources
+C:\Users\Administrator\Documents\visual studio 2015\Projects\ModelAndDbGeneration\ModelAndDbGeneration\obj\Debug\ModelAndDbGeneration.Properties.Resources.resources
+C:\Users\Administrator\Documents\visual studio 2015\Projects\ModelAndDbGeneration\ModelAndDbGeneration\obj\Debug\ModelAndDbGeneration.csproj.GenerateResource.Cache
+C:\Users\Administrator\Documents\visual studio 2015\Projects\ModelAndDbGeneration\ModelAndDbGeneration\obj\Debug\ModelAndDbGeneration.exe.licenses
+C:\Users\Administrator\Documents\visual studio 2015\Projects\ModelAndDbGeneration\ModelAndDbGeneration\obj\Debug\ModelAndDbGeneration.exe
+C:\Users\Administrator\Documents\visual studio 2015\Projects\ModelAndDbGeneration\ModelAndDbGeneration\obj\Debug\ModelAndDbGeneration.pdb
